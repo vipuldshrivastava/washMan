@@ -1,0 +1,39 @@
+ {
+  "project_info": {
+    "project_number": "454936376027",
+    "project_id": "washman-1c407",
+    "storage_bucket": "washman-1c407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454936376027:android:6b0742c5bfa67d3b2f92fe",
+        "android_client_info": {
+          "package_name": "com.example.wash_man"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454936376027-je6oo3hd7ccdvc8hbsigcfetshrup29r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2E3VH1Ay2I2Qch_ROTCrq4dHuPsdNgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454936376027-je6oo3hd7ccdvc8hbsigcfetshrup29r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
